@@ -12,7 +12,7 @@
 ### Autores: 
 
 - nombre completo (correo institucional)
-- nombre completo (correo institucional)
+- Nicolás Alejandro Diosa Benavides (ndiosab@unal.edu.co)
 - nombre completo (correo institucional)
 - nombre completo (correo institucional)
 - nombre completo (correo institucional)
