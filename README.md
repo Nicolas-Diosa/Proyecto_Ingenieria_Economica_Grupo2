@@ -11,13 +11,13 @@
 
 ### Autores: 
 
-- nombre completo (correo institucional)
-- nombre completo (correo institucional)
-- nombre completo (correo institucional)
-- nombre completo (correo institucional)
-- nombre completo (correo institucional)
-- nombre completo (correo institucional)
-- nombre completo (correo institucional)
+- Fabián David Mora Martínez (fmoram@unal.edu.co)
+- Ever Nicolás Muñoz Cortés (evmunoz@unal.edu.co)
+- Isaias David Gallardo Felizzola (igallardo@unal.edu.co)
+- Ángel Manuel Cortavarria Salas (acortavarria@unal.edu.co)
+- Nicolás Alejandro Diosa Benavides (ndiosab@unal.edu.co)
+- Juan Esteban Ocampo Vidal (jocampov@unal.edu.co)
+- Paula Alejandra Murcia Ramírez (pmurciar@unal.edu.co)
 
 ### Docente: 
 Diego Alejandro Hernández Castañeda 
